@@ -5,7 +5,7 @@
 高齢者向けメモ帳アプリ
 
 ③DEMO
-https://sawaito.github.io/kadai04/
+[https://sawaito.github.io/kadai04/](https://github.com/SawaIto/kadai04/blob/main/memopad2.html)
 
 ④工夫した点・こだわった点
 記録したメモをリストにすること。
